@@ -1,3 +1,3 @@
-Repository for Teaching Statistics with R 2021
+Repository for Teaching Statistics with R
 
-Website: https://npetraco.github.io/workshop21/
+Website: https://npetraco.github.io/Rworkshop/
